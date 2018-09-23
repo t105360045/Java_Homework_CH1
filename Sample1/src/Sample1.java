@@ -2,8 +2,8 @@ public class Sample1
 {
 	public static void main(String[] args)
 	{
-		System.out.print("Åwªï¨Ï¥ÎJava!");
-		System.out.print("¶}©l¨Ï¥ÎJava§a!");
+		System.out.print("æ­¡è¿ä½¿ç”¨Java!");
+		System.out.print("é–‹å§‹ä½¿ç”¨Javaå§!");
 	}
 
 }
